@@ -4,9 +4,9 @@ everyone dreads at the start of the semester. Sorry, I just needed a filler for 
 
 
 const yourName : String = "Ryan Burtson";
-let yourPronouns : String = "Pro/Noun";
-const yourMajor : String = "Yoor";
-let classification : String = "freshman/soph/junior/senior/supersenior";
-let oneExcite : String = "One thing you're excited about in this course";
-let anyConcerns : String = "If anything, list what you may be worried about in this course";
-let funFact : String = "And the classic, list one fun fact about yourself";
+let yourPronouns : String = "He/Him";
+const yourMajor : String = "CS BS, Digital Agriculture Concentration";
+let classification : String = "Junior";
+let oneExcite : String = "Learning more about and getting more experience with programming and implementation";
+let anyConcerns : String = "The group project... I despise forced group work in school. Too many slackers with no repercussions.";
+let funFact : String = "I absolutely adore spiders and I desperately want a pet jumping spider.";
